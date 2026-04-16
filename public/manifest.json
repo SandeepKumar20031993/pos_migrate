@@ -1,0 +1,15 @@
+{
+  "short_name": "Galla",
+  "name": "Galla POS",
+  "icons": [
+    {
+      "src": "/posv2/assets/images/fav.icon.manifest.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/posv2/",
+  "display": "standalone",
+  "theme_color": "#777777",
+  "background_color": "#777777"
+}
