@@ -1,13 +1,11 @@
-import React, { Component } from 'react'
+import React from 'react'
 
-export class category extends Component {
-    render() {
-        return (
-            <div>
-                Category Page
-            </div>
-        )
-    }
+const Category = () => {
+    return (
+        <div>
+            Category Page
+        </div>
+    )
 }
 
-export default category
+export default Category
